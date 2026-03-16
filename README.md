@@ -22,18 +22,13 @@ This artifact is a curated strategic timeline designed to provide stakeholders w
 
 ## **Artifact 2: AI-Augmented Retail Intelligence Analysis**
 
-### **The Project**
-This project demonstrates the integration of Generative AI (ChatGPT-4o) into the data science lifecycle. Acting as a "Senior Data Scientist," I used AI to perform automated data cleaning, normalization, and anomaly detection on a dataset of over 1.2 million retail records.
+* **Title:** Strategic Analysis of Macroeconomic Impacts on Retail Sales
+* **Objective:** To leverage Generative AI (LLMs) to identify non-linear correlations between CPI, Unemployment, and Weekly Sales within a 1.2M+ record dataset.
+* **Process:** 1. **Data Cleaning:** Normalizing date formats and handling null values in economic indices.
+    2. **AI Integration:** Utilizing a 'Senior Data Scientist' persona in ChatGPT-4o to perform rapid Exploratory Data Analysis (EDA).
+    3. **Validation:** Cross-referencing AI-generated anomalies against manual statistical regressions to ensure data integrity.
+* **Tools:** Python (Pandas/Matplotlib), ChatGPT-4o (Advanced Data Analysis), Microsoft PowerPoint.
+* **Value Proposition:** Demonstrates the ability to act as a force-multiplier by reducing data-to-insight turnaround time while maintaining rigorous ethical standards and technical accuracy.
 
-### **Key Insights**
-* **The Challenge:** Processing massive datasets for non-linear correlations between economic indicators (CPI/Unemployment) and sales.
-* **The Solution:** Developed a prompt-engineering strategy to identify specific store-level anomalies and validate AI-generated trends against manual statistical results.
-* **Outcome:** Proved that AI can accelerate the "Exploratory Data Analysis" phase by 80% while maintaining high accuracy through human cross-validation.
-
-### **Skills Demonstrated**
-* **Prompt Engineering:** Designing complex personas and multi-step instructions for LLMs.
-* **Comparative Analytics:** Validating AI outputs against traditional statistical methods.
-* **Strategic Reporting:** Communicating technical findings to business stakeholders.
-
----
-*Created as part of the Foundations of Data Analytics & Machine Learning curriculum.*
+### **Evidence**
+[Link to Nikhil_Walmart_AI_Analysis_6.4.pptx](./AI Data Analytics.pptx)
