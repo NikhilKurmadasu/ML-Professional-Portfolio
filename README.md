@@ -31,4 +31,4 @@ This artifact is a curated strategic timeline designed to provide stakeholders w
 * **Value Proposition:** Demonstrates the ability to act as a force-multiplier by reducing data-to-insight turnaround time while maintaining rigorous ethical standards and technical accuracy.
 
 ### **Evidence**
-[Link to Nikhil_Walmart_AI_Analysis_6.4.pptx](./AI Data Analytics.pptx)
+[Link to Walmart_AI_Analysis.pptx](./AI Data Analytics.pptx)
