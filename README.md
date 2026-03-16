@@ -11,7 +11,7 @@ Welcome to my professional portfolio. This repository showcases my transition in
 This artifact is a curated strategic timeline designed to provide stakeholders with the historical context of intelligent systems. It identifies the major inflection points—from early Symbolism to the modern Generative era—that have shaped current enterprise AI/ML capabilities.
 
 ### **Visualization**
-![AI/ML Timeline](AI_ML_Timeline_Nikhil.png)
+![AI/ML Timeline](AI:ML Timeline Infographic.png)
 
 ### **Key Insights**
 * **Goal:** Ground technical decisions in a historical context for better long-term strategy.
